@@ -38,7 +38,7 @@ Q2 November 2017 recorded the highest monthly payment revenue in the Q2 result a
 
 Q3 Revenue increased by 53.25% from October to November 2017 in the Q3 result.
 
-Q4 Health and beauty generated the highest product sales value in Q4 at 1,258,681.34.
+Q4 identified health and beauty as the category with the highest product sales value, at 1,258,681.34.
 
 Q5 identifies the top three products within each product category.
 
@@ -46,7 +46,7 @@ Q6 identified 4,296 customers in the High spending tier, with average spending o
 
 Q7 classified all 99,441 customers as one-time buyers within the available customer and order records.
 
-Q8 identified health\_beauty as the top category, representing 9.26% of total category sales value.
+Q8 identified health and beauty as the top category by product sales value, representing 9.26% of total category sales value.
 
 
 
